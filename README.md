@@ -1,6 +1,6 @@
 # Hi there, I'm Nooraya 
 
- A passionate learner and aspiring **Data Scientist** | **AI Explorer** | **Freelancer**
+ A passionate aspiring **Data Scientist** | **AI Explorer** | **Freelancer**
 
  I’m currently working on Python-based data science projects, EDA, Machine Learning, and AI mini-projects.
 
