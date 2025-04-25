@@ -1,19 +1,34 @@
-# Hi there, I'm Nooraya 
+# 👋 Hi there, I'm Nooraya!
 
- A passionate aspiring **Data Scientist** | **AI Explorer** | **Freelancer**
+## 🚀 A Passionate Aspiring Data Scientist | 🤖 AI Explorer | 🧑‍💻 Freelancer
 
- I’m currently working on Python-based data science projects, EDA, Machine Learning, and AI mini-projects.
+I’m currently diving deep into Python-based projects in:
+- 📊 Data Science
+- 📈 Exploratory Data Analysis (EDA)
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence (AI)
 
- I’m constantly learning and growing in the field of:
-- Data Analysis
-- Machine Learning
-- Natural Language Processing
-- AI for real-world applications
+---
 
- Recent Projects:
--  Exploratory Data Analysis on cardiographic dataset
--  Classification using KNN and SVM
--  AI-based sentence classification
--  Word & Sentence NLP mini tools
+## 🌱 Currently Learning & Growing In:
+- 🧮 Data Analysis  
+- 📚 Machine Learning  
+- 🗣️ Natural Language Processing (NLP)  
+- 🌍 AI for Real-World Applications  
 
- How to reach me: **noorayacodes@gmail.com**
+---
+
+## 🔬 Recent Projects:
+
+| 🗂️ Project Title | 🧠 Technologies/Topics |
+|------------------|------------------------|
+| 🫀 **EDA on Cardiographic Dataset** | Data Cleaning, Visualization |
+| 📊 **Classification using KNN & SVM** | ML Algorithms, Scikit-learn |
+| 🧾 **AI-based Sentence Classification** | NLP, Text Classification |
+| 🧠 **NLP Mini Tools for Word & Sentence** | Tokenization, Text Analysis |
+
+---
+
+## 📫 Let's Connect!
+Feel free to reach out or collaborate.  
+I'm always open to learning and contributing to meaningful projects!
